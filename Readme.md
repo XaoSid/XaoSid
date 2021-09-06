@@ -4,7 +4,7 @@
 - Web-Design
 - Desenvolvedor Front-End
 
-
+##
 <div> 
   <a href="https://github.com/xaosid">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xaosid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -19,7 +19,7 @@
   <img align="center" alt="Lucas-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
   <img align="center" alt="Lucas-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Lucas-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-</div>
+</div><br>
 
 ##
 

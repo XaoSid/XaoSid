@@ -1,6 +1,6 @@
 
 ## Olá, Eu sou Lucas Silva
-- Lolzeiro 
+
 - Web-Design
 - Desenvolvedor Front-End
 

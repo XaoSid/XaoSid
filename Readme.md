@@ -1,8 +1,11 @@
 
 ## Olá, Eu sou Lucas Silva
 
-- Web-Design
-- Desenvolvedor Front-End
+
+Atuação: Front-End
+- 📚 Estudando: Angular, Vue, Typescript
+- 👨‍🎓 Graduação: Aluno do curso de Análise e Desenvolvimento de Sistemas na Universidade Santa Cecília
+- 📫 Contato: lucassporto.comtato@gmail.com
 
 ##
 <div> 

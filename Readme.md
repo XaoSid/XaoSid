@@ -5,7 +5,7 @@
 Atuação: Front-End
 - 📚 Estudando: Angular, Vue, Typescript
 - 👨‍🎓 Graduação: Aluno do curso de Análise e Desenvolvimento de Sistemas na Universidade Santa Cecília
-- 📫 Contato: lucassporto.comtato@gmail.com
+- 📫 Contato: lucassporto.contato@gmail.com
 
 ##
 <div> 
